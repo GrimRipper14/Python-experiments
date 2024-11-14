@@ -1,0 +1,7 @@
+receipt:
+Pizza @ $7.99
+Chicken @ $3.99
+Shake @ $2.99
+Fries @ $3.5
+Hamburger @ $9.99
+total: $28.46

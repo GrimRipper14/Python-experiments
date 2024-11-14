@@ -1,0 +1,6 @@
+5
+pizza 7.99
+chicken 3.99
+shake 2.99
+fries 3.50
+hamburger 9.99
